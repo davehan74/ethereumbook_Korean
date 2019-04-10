@@ -5,7 +5,7 @@ This quick glossary contains many of the terms used in relation to Ethereum. The
 
 이 빠른 용어집에는 Ethereum과 관련된 많은 용어가 들어 있습니다. 이 용어는 책 전체에 걸쳐 사용되므로 빠른 참조를 위해 북마크하십시오.
 
-Account:: (계정)
+Account (계정):: 
 ((("account","defined")))An object containing an address, balance, nonce, and optional storage and code. An account can be a contract account or an externally owned account (EOA).
 
 주소, 잔고, nonce 및 선택적 저장 및 코드가 포함 된 개체입니다. 계정은 계약 계정이거나 외부 소유 계정 (EOA) 일 수 있습니다.
