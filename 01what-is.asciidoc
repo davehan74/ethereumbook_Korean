@@ -4,11 +4,19 @@
 
 ((("Ethereum (generally)","about", id="ix_01what-is-asciidoc0", range="startofrange")))Ethereum ((("world computer, Ethereum as")))is often described as "the world computer.&#x201d; But what does that mean? Let's start with a computer science–focused description, and then try to decipher that with a more practical analysis of Ethereum's capabilities and characteristics, while comparing it to Bitcoin and other decentralized information exchange platforms (or "blockchains" for short).
 
+Ethereum은 종종 "세계 컴퓨터"로 묘사됩니다. 그것이 무슨 의미일까요? 컴퓨터 과학의 관점에서, Ethereum의 기능 및 특성은 Bitcoin이나 다른 분산 정보 교환 플랫폼들(또는 간단히 블록체인들)과 비교해 보다 실용적이라고 할 수 있다.
+
 From a computer science perspective, Ethereum is a deterministic but practically unbounded state machine, consisting of a globally accessible singleton state and a virtual machine that applies changes to that state.
+
+컴퓨터 과학의 관점에서 보면, 이더리움은 전역적으로 액세스 가능한 싱글톤 상태와 그 상태에 변경 사항을 적용하는 가상머신으로 구성된 사실상 무제한적인 상태 머신으로 정의됩니다.
 
 From a more practical perspective, Ethereum is an open source, globally decentralized computing infrastructure that executes programs called _smart contracts_. It uses a blockchain to synchronize and store the system’s state changes, along with a cryptocurrency called _ether_ to meter and constrain execution resource costs.
 
+좀 더 실용적인 관점에서 볼 때, Ethereum은 스마트 계약 이라는 프로그램을 실행하는 전 세계적으로 분산 컴퓨팅 인프라 입니다. 블록 체인을 사용하여 시스템의 상태 변화를 동기화하고 저장하며, 에테르 라는 cryptocurrency 를 사용하여 실행 리소스 비용을 측정 제한합니다.
+
 The Ethereum platform enables developers to build powerful decentralized applications with built-in economic functions. While providing high availability, auditability, transparency, and neutrality, it also reduces or eliminates censorship and reduces certain counterparty risks.
+
+Ethereum 플랫폼을 사용하면 개발자는 경제 기능이 내장 된 강력한 분산 응용 프로그램을 작성할 수 있습니다. 고 가용성, 감사 가능성, 투명성 및 중립성을 제공하는 동시에 검열을 줄이거나 없애고 특정 거래 상대방의 위험을 줄입니다.
 
 [[bitcoin_comparison]]
 === Compared to Bitcoin
